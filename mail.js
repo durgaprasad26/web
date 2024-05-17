@@ -39,7 +39,7 @@ function submitForm(e) {
     document.querySelector(".alert").style.display = "none";
 
     // Redirect to about.html
-    window.location.href = '/frontend/about.html'
+    window.location.href = '/about.html'
 
   }, 3000);
 
